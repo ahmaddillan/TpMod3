@@ -14,6 +14,7 @@ namespace TpMod3
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             string inputText = textBoxInput.Text.Trim();
 
             if (!string.IsNullOrEmpty(inputText))
@@ -24,6 +25,9 @@ namespace TpMod3
             {
                 labelOutput.Text = "Silakan masukkan nama!";
             }
+=======
+            labelOutput.Text = "Output: " + textBoxInput.Text;
+>>>>>>> b3be9390960d9f9a54c57c5620ddc957c3b448d9
         }
     }
 }
