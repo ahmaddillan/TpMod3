@@ -1,0 +1,16 @@
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\bin\Debug\net8.0-windows\TpMod3.exe
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\bin\Debug\net8.0-windows\TpMod3.deps.json
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\bin\Debug\net8.0-windows\TpMod3.runtimeconfig.json
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\bin\Debug\net8.0-windows\TpMod3.dll
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\bin\Debug\net8.0-windows\TpMod3.pdb
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.Form1.resources
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.csproj.GenerateResource.cache
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.AssemblyInfoInputs.cache
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.AssemblyInfo.cs
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.csproj.CoreCompileInputs.cache
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.dll
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\refint\TpMod3.dll
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.pdb
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\TpMod3.genruntimeconfig.cache
+C:\Users\Dillan\source\repos\TpMod3\TpMod3\obj\Debug\net8.0-windows\ref\TpMod3.dll

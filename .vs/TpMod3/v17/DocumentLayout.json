@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|c:\\users\\dillan\\source\\repos\\tpmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|c:\\users\\dillan\\source\\repos\\tpmod3\\tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|solutionrelative:tpmod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|c:\\users\\dillan\\source\\repos\\tpmod3\\tpmod3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD81A3-7D54-4EC9-9A91-410BC2AA71C0}|TpMod3\\TpMod3.csproj|solutionrelative:tpmod3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.cs",
+              "RelativeDocumentMoniker": "TpMod3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.cs [Design]",
+              "RelativeToolTip": "TpMod3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:54:17.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.cs",
+              "RelativeDocumentMoniker": "TpMod3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.cs",
+              "RelativeToolTip": "TpMod3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:29:19.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TpMod3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Dillan\\source\\repos\\TpMod3\\TpMod3\\Form1.Designer.cs",
+              "RelativeToolTip": "TpMod3\\Form1.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:28:42.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
